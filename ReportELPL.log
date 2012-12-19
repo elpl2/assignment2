@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.3.1)  19 DEC 2012 15:26
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.3.1)  19 DEC 2012 15:28
 entering extended mode
 **ReportELPL.tex
 (L:\3.Documents\huiswerk_20122013\ELPL\ass2\assignment2\ReportELPL.tex
@@ -250,27 +250,23 @@ Underfull \hbox (badness 1097) in paragraph at lines 24--30
 
 
 ]
-(L:\3.Documents\huiswerk_20122013\ELPL\ass2\assignment2\ReportELPL.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-) ) 
+(L:\3.Documents\huiswerk_20122013\ELPL\ass2\assignment2\ReportELPL.aux) ) 
 Here is how much of TeX's memory you used:
  3917 strings out of 494045
  53546 string characters out of 3147582
- 113188 words of memory out of 3000000
+ 113265 words of memory out of 3000000
  7179 multiletter control sequences out of 15000+200000
  8600 words of font info for 31 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  27i,7n,32p,240b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
-/Program Files (x86)/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progra
-m Files (x86)/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files
- (x86)/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ReportELPL.pdf (1 page, 84452 bytes).
+<C:/Pr
+ogram Files (x86)/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program 
+Files (x86)/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (
+x86)/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmti10.pfb>
+Output written on ReportELPL.pdf (1 page, 84454 bytes).
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
