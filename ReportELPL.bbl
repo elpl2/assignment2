@@ -1,0 +1,31 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Brown et~al.(1993)Brown, Pietra, Pietra, and Mercer]{Brown}
+Peter~F. Brown, Vincent J.~Della Pietra, Stephen A.~Della Pietra, and Robert~L.
+  Mercer.
+\newblock The mathematics of statistical machine translation: parameter
+  estimation.
+\newblock \emph{Comput. Linguist.}, 19\penalty0 (2):\penalty0 263--311, 1993.
+
+\bibitem[Chiang(2005)]{Chiang}
+David Chiang.
+\newblock A hierarchical phrase-based model for statistical machine
+  translation.
+\newblock In \emph{Proceedings of the 43rd Annual Meeting on Association for
+  Computational Linguistics}, ACL '05, pages 263--270, Stroudsburg, PA, USA,
+  2005. Association for Computational Linguistics.
+
+\bibitem[Koehn et~al.(2003)Koehn, Och, and Marcu]{Koehn}
+Philipp Koehn, Franz~Josef Och, and Daniel Marcu.
+\newblock Statistical phrase-based translation.
+\newblock In \emph{Proceedings of the 2003 Conference of the North American
+  Chapter of the Association for Computational Linguistics on Human Language
+  Technology - Volume 1}, NAACL '03, pages 48--54, Stroudsburg, PA, USA, 2003.
+  Association for Computational Linguistics.
+
+\end{thebibliography}
